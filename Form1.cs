@@ -22,6 +22,7 @@ namespace Init_Project
             double b = double.Parse(txtB.Text);
             double c = a + b;
             txtKetQua.Text = c.ToString();
+            //Button Cộng
         }
     }
 }
